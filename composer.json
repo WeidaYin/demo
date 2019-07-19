@@ -1,4 +1,5 @@
 {
+	"name": "yngwie/test2",
 	"require" : {
 		"monolog/monolog" : "1.2.*"
 	}
